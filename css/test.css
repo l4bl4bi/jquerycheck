@@ -1,0 +1,127 @@
+
+
+
+#test{
+    background-image: url(Screenshot_1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:200px;
+   
+}
+#button1{
+    margin-top:50px;
+    display: none;
+    
+}
+#loco{
+background-image: url(Screenshot_2.png);
+background-repeat: no-repeat;
+background-size: cover;
+height:200px;
+
+
+}
+.butn{
+    position:absolute;
+}
+#button2{
+    margin-top:50px;
+    display:none;
+}
+#vato{
+    background-image: url(Screenshot_3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height:200px;
+    
+    
+    }
+    #button3{
+        margin-top:50px;
+        display:none;
+    }
+    #offbeat{
+        background-image: url(Screenshot_4.png);
+        background-repeat: no-repeat;
+        background-size: cover;
+        height:200px;
+        
+        
+        
+        }
+        #button4{
+            margin-top:50px;
+            display:none;
+        }
+
+        #s14{
+            background-image: url(Screenshot_5.png);
+            background-repeat: no-repeat;
+            background-size: cover;
+            height: 200px;
+            
+            
+            
+            }
+            #button5{
+                margin-top:50px;
+                display:none;
+            }
+            
+            #supra{
+                background-image: url(Screenshot_6.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                height:200px;
+                
+                
+                
+                }
+                #button6{
+                    margin-top:50px;
+                    display:none;
+                }
+                  
+             #240sx{
+                background-image: url(Screenshot_7.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                height:200px;
+                
+                }
+                #button7{
+                    margin-top:50px;
+                    display:none;
+                }
+                  
+            #ae86{
+                background-image: url(Screenshot_8.png);
+                background-repeat: no-repeat;
+                background-size: cover;
+                height:200px;
+                
+                
+                
+                }
+                #button8{
+                    margin-top:50px;
+                    display:none;
+                }
+                ynw{
+                    background-image: url(Screenshot_9.png);
+                    background-repeat: no-repeat;
+                    background-size: cover;
+                    height:200px;
+        
+                    
+                    
+                    
+                    }
+                    #button9{
+                        margin-top:50px;
+                        display:none;
+                    }
+.blo{
+    display:inline-block;
+    width:32%;
+}
